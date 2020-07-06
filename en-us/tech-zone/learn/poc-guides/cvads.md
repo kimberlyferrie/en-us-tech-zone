@@ -47,7 +47,7 @@ This proof-of-concept guide will describe the following:
 
 ### VM Requirements
 
-Prior to starting this POC, you will need to create an image and install any applicatioon you would like to deliver to your end users.
+Prior to starting this POC, you will need to create an image and install any application you would like to deliver to your end users.
 
 Virtual Delivery agents (VDAs) are required on each physical or virtual machine that delivers applications and desktops. These will register with the cloud connectors. VDAs can be installed in either single-session or multi-session OS. The following operating systems are supported:
 
